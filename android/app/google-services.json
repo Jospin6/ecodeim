@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007138923452",
+    "project_id": "ecodim-76746",
+    "storage_bucket": "ecodim-76746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007138923452:android:21e6dae08bf0e47c8581b9",
+        "android_client_info": {
+          "package_name": "com.ecodim.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3S_ufJXC8ueTIXe1vJsVwWiWmZKRb_Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
